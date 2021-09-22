@@ -39,4 +39,4 @@ let torontoHoods = "https://raw.githubusercontent.com/Bionicbabes/Mapping_Earthq
 d3.json(torontoHoods).then(function(data) {
   console.log(data);
 L.geoJson(data).addTo(map);
-});s
+});
