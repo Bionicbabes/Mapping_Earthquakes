@@ -6,6 +6,10 @@
 
 - First we went out and got the boundaries of the tetonic plates and added them as a layer to our map that can be tooggled with a button 
 - Then we wented to narrow our visualiztion with and look more specifically in to the earthquakes that made a magnitude of < 4.5.
+- Then we had to add a third map style, we choose:  
+      1.  Streets 
+      2.  Satellite 
+      3.  Dark 
 
 # **Summary**
 
